@@ -1,6 +1,6 @@
 
 <p align="center">
- <img width="100px" src="https://avatars.githubusercontent.com/u/65562685?v=4" align="center" alt="me" width=250 />
+ <img width="100px" src="https://avatars.githubusercontent.com/u/65562685?v=4" align="center" alt="me" width=500 />
 
 <h2 align="center" >About</h3>
 
