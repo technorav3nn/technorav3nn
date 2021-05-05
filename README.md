@@ -1,15 +1,9 @@
 
 <p align="center">
  <img width="100px" src="https://avatars.githubusercontent.com/u/65562685?v=4" align="center" alt="me" width=500 /></p>
-<h2 align="center" >About</h3>
+<h2 align="center" >cool man lol</h3>
 
-```js
-const me = {
-	username: "technorav3nn",
-	hobby: "coding",
-	cool: true
-}
-```
+
 
 > What I use
 
