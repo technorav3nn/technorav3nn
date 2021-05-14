@@ -14,6 +14,17 @@
 [![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/BRdhanani)](https://github.com/BRdhanani) [
 ![MongoDB](https://img.shields.io/badge/-MongoDB-FCA121?style=flat&logo=mongodb&link=https://github.com/BRdhanani)](https://gitlab.com/BRdhanani) 
 
+> What I know:
+- Javascript
+- PHP
+- C#
+- Lua
+- Python
+
+> What im learning: 
+- C lang
+- C++
+
 <h2 align="center">Statistics</h3>
 
 <p align = "center">
