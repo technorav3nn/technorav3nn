@@ -16,14 +16,13 @@
 
 > What I know:
 - Javascript
-- PHP
 - C#
 - Lua
 - Python
 
 > What im learning: 
-- C lang
-- C++
+- Java
+ - Also Koltin
 
 <h2 align="center">Statistics</h3>
 
