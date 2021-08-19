@@ -14,6 +14,8 @@
 [![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/BRdhanani)](https://github.com/BRdhanani) [
 ![MongoDB](https://img.shields.io/badge/-MongoDB-FCA121?style=flat&logo=mongodb&link=https://github.com/BRdhanani)](https://gitlab.com/BRdhanani) 
 
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=nlrjm2z5g3gta6e6ocvqzdt88&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
+
 > What I know:
 - Javascript
 - C#
@@ -27,6 +29,7 @@
 <h2 align="center">Statistics</h3>
 
 <p align = "center">
+ 
   <img src = "https://github-readme-stats.vercel.app/api?username=technorav3nn&show_icons=true&theme=radical&line_height=33">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=technorav3nn&hide_langs_below=.25&theme=radical">
 </p>
