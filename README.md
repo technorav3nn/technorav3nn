@@ -1,35 +1,32 @@
+### Heya 👋!
 
-<p align="center">
- <img width="100px" src="https://avatars.githubusercontent.com/u/65562685?v=4" align="center" alt="me" width=500 /></p>
-<h2 align="center" >cool man lol</h3>
+My name is Death_Blows.
 
+I am an avid programmer who has been doing so for almost 3 years. A fast learner, I started when I was only 12!
 
+I've been working on a few projects lately, here are some of them: 
 
-> What I use
+- [supercell-apis](https://github.com/technorav3nn/sc-api):  A monorepo of API wrappers for games by Supercell
+- (https://github.com/technorav3nn/Project-Floppa)[nebula]: A roblox script that aims to be open source, but still provide many games. (I need to change the name)
+- Im also working on a functional personal website, using Next 13 and Mantine!
 
-[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/BRdhanani)](https://github.com/BRdhanani) 
-[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&link=https://github.com/BRdhanani)](https://github.com/BRdhanani) 
-[![Nodejs](https://img.shields.io/badge/-Nodejs-green?style=flat&logo=Node.js&link=https://github.com/BRdhanani)](https://github.com/BRdhanani) [
-![JSON](https://img.shields.io/badge/-json-02569B?style=flat&logo=json&link=https://github.com/BRdhanani)](https://github.com/BRdhanani)
-[![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/BRdhanani)](https://github.com/BRdhanani) [
-![MongoDB](https://img.shields.io/badge/-MongoDB-FCA121?style=flat&logo=mongodb&link=https://github.com/BRdhanani)](https://gitlab.com/BRdhanani) 
+I know many programming languages. But the ones I fathom are:
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=nlrjm2z5g3gta6e6ocvqzdt88&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
+- Rust
+- TypeScript
+- JavaScript (old friend)
 
-> What I know:
-- Javascript
-- C#
-- Lua
-- Python
+But not all. I'm currently learning:
 
-> What im learning: 
-- Java
- - Also Koltin
+- Swift
 
-<h2 align="center">Statistics</h3>
+#### Statistics
 
-<p align = "center">
- 
-  <img src = "https://github-readme-stats.vercel.app/api?username=technorav3nn&show_icons=true&theme=radical&line_height=33">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=technorav3nn&hide_langs_below=.25&theme=radical">
-</p>
+<div>
+  <a href="https://github.com/technorav3nn">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=technorav3nn&layout=compact&title_color=4F8CC9&text_color=9f9f9f&bg_color=151515&hide_border=true&icon_color=4F8CC9&count_private=true&show_icons=true&include_all_commits=true&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=technorav3nn&layout=compact&langs_count=7&title_color=4F8CC9&text_color=9f9f9f&bg_color=151515&hide_border=true&icon_color=4F8CC9&count_private=true&show_icons=true&theme=dark"/>
+  </a>
+</div>
+
+#### Thanks for reading!
