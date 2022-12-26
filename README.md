@@ -6,8 +6,9 @@ I am an avid programmer who has been doing so for almost 3 years. A fast learner
 
 I've been working on a few projects lately, here are some of them: 
 
-- [supercell-apis](https://github.com/technorav3nn/sc-api):  A monorepo of API wrappers for games by Supercell
-- (https://github.com/technorav3nn/Project-Floppa)[nebula]: A roblox script that aims to be open source, but still provide many games. (I need to change the name)
+- [Supercell APIs](https://github.com/technorav3nn/sc-api):  A monorepo of API wrappers for games by Supercell
+- (https://github.com/technorav3nn/Project-Floppa)[Nebula]: A roblox script that aims to be open source, but still provide many games. (I need to change the name)
+- [Script-ware Mac VSCode](https://github.com/technorav3nn/scriptware-m-vscode)
 - Im also working on a functional personal website, using Next 13 and Mantine!
 
 I know many programming languages. But the ones I fathom are:
