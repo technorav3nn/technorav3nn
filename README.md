@@ -4,21 +4,12 @@ My name is Death_Blows.
 
 I am an avid programmer who has been doing so for almost 3 years. A fast learner, I started when I was only 12!
 
-I've been working on a few projects lately, here are some of them: 
-
-- [Supercell APIs](https://github.com/technorav3nn/sc-api):  A monorepo of API wrappers for games by Supercell
-- [Script-Ware Mac VSCode](https://github.com/technorav3nn/scriptware-m-vscode)
-- Im also working on a functional personal website, using Next 13 and Mantine!
-
-I know many programming languages. But the ones I fathom are:
-
+Languages I like:
 - Rust
 - TypeScript
 - JavaScript (old friend)
-
-But not all. I'm currently learning:
-
 - Swift
+
 
 #### Statistics
 
