@@ -9,7 +9,7 @@ Languages I like:
 - TypeScript
 - JavaScript (old friend)
 - Swift
-
+- Lua / Luau
 
 #### Statistics
 
